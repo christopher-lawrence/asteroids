@@ -3,6 +3,7 @@
 This is a small project created for a [Boot.dev](https://boot.dev) course.
 
 ### TODO
+- [ ] Better organization
 - [ ] Add a scoring system
 - [ ] Implement multiple lives and respawning
 - [ ] Add an explosion effect for the asteroids
